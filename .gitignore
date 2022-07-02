@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Temp garbage
+*.swp
+
 # Object files
 *.o
 *.ko
